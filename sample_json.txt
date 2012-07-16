@@ -1,0 +1,22 @@
+# This is what get_check_averages() returns
+{
+    u'summary': {
+        u'status': {
+            u'totalup': 518400, 
+            u'totalunknown': 0, 
+            u'totaldown': 0
+        }, 
+        u'responsetime': {
+            u'to': 1342238400, 
+            u'from': 1341720000, 
+            u'avgresponse': [
+                {u'countryiso': u'US', u'avgresponse': 218}, 
+                {u'countryiso': u'DE', u'avgresponse': 664}, 
+                {u'countryiso': u'CZ', u'avgresponse': 732}, 
+                {u'countryiso': u'CA', u'avgresponse': 249}, 
+                {u'countryiso': u'GB', u'avgresponse': 533}, 
+                {u'countryiso': u'NL', u'avgresponse': 539}
+            ]
+        }
+    }
+}
